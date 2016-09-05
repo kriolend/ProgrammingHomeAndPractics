@@ -1,0 +1,5 @@
+﻿hello привет
+goodbye пока
+i я
+say сказать
+or или
